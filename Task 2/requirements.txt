@@ -1,0 +1,6 @@
+pandas
+numpy
+qgrid
+plotly
+ipywidgets==7.0
+ipython_genutils
